@@ -5,7 +5,7 @@ A personal portfolio website for **Titus Kamunya**, a software engineer and B2B 
 ---
 
 ## 🌐 Live Preview
-> Coming soon via GitHub Pages
+> **[https://titus-kamunya.netlify.app](https://titus-kamunya.netlify.app)**
 
 ---
 
